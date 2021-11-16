@@ -4,6 +4,6 @@ env/
 .vscode
 __pycache__
 *.xlsx
-docker-compose-dev.yml
+docker-compose-prod.yml
 .idea/
 .pytest_cache/
